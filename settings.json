@@ -1,0 +1,17 @@
+{
+    "self_mode": false,
+    "anti_delete": false,
+    "anti_call": true,
+    "autorespon": false,
+    "user_register": true,
+    "auto_welcome": true,
+    "auto_leave": true,
+	"prefix": ".",
+	"ownerNumber": "6285707101183",
+	"creator": "6285707101183",
+	"ownername": "Radhin & Damar",
+	"botname":"Leviathan botz",
+	"thumbnail":"FB_IMG_1629637043329.jpg",
+	"fakethumb":"FB_IMG_1629637043329.jpg",
+	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
+}
